@@ -12,9 +12,8 @@ CSS3
 JavaScript (ES6+)
 
 Project List
-This is the main list where you can track your progress. Simply replace the placeholders [Project Name] and [Link to Project] with your project's details as you complete them.
-
-[TIP CALCULATOR] - [Link to Project]
+ 
+[TIP CALCULATOR] - [https://tipwork1.netlify.app/]
 
 [Project Name] - [Link to Project]
 
