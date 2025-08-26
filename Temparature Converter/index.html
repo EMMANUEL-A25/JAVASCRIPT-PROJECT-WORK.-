@@ -3,9 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Temperature Converter</title>
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    
+    <div class="container">
+        <h1 class="heading">Temperature Converter</h1>
+        <div class="temp-container">
+            <label for="celsius">Celsius</label>
+            <input onchange="computeTemp(event)" type="number" name="celsius" placeholder="Enter Temperature" class="input"></input>
+        </div>
+    </div>
 </body>
 </html>
